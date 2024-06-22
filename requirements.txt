@@ -1,0 +1,5 @@
+pycaret[full]
+pandas
+numpy
+pandas--3.x
+streamlit
